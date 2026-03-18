@@ -1,8 +1,3 @@
-# Myntra_Automation_Project
-
-Here is your **clean Myntra Automation Framework README (without emojis)** — professional and hackathon-ready:
-
----
 
 # Myntra Automation Framework
 
