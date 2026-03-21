@@ -4,6 +4,7 @@
 A Selenium + TestNG based automation framework for Myntra, designed using the Page Object Model (POM) to ensure scalability, reusability, and maintainability.
 
 ---
+<img width="1241" height="698" alt="pepperfry test cases" src="https://github.com/user-attachments/assets/6431a3cf-2125-4ebe-b3f3-0c2973fe440d" />
 
 # Project Structure
 
